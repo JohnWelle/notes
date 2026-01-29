@@ -10,6 +10,7 @@ keywords:
   - kål
   - trolololol
   - gås
+  - fet spliff
 author: "AI-assisterat innehåll... eller? :o"
 language: "sv"
 robots: "index, follow"

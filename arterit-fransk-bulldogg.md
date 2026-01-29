@@ -4,15 +4,13 @@ title: "Arterit hos äldre fransk bulldogg – praktiskt stöd för oss som bryr
 language: "sv"
 ---
 
-## Placeholder – inledande text (att ersätta eller behålla)
+# Allmänna råd för gamla flygpiloter och andra 
 
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.*
+*Hejsan kära H-vänner som har namn som kanske börjar på S eller L. Om du är någon annan, hur har du vilsat dig hit?! Det är en enkel AI genererad text som har lite generella tips och råd. Som djurägare och tidigare uppfödare, det ända _egentliga_ rådet är egentligen bara att aktivt samarbete med veterinär, men det ni nog redan. Det sagt, enkel checklista, genererad och hostad på några minuter + bonusbild av gosegutten. Mys och kram!*
 
-Her kommere fin bild
+<img width="721" height="514" alt="image" src="https://github.com/user-attachments/assets/c65b6cf4-8cec-4818-9123-6afece37ed15" />
 
-*Den här sidan är skriven med hjälp av AI som stöd – tänk klok kompis med bra sammanställningsförmåga, inte ersättning för veterinär.*
+AI grejer nedan.
 
 ---
 

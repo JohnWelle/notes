@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Arterit hos äldre fransk bulldogg – praktiskt stöd för oss som bryr oss"
 language: "sv"
 ---

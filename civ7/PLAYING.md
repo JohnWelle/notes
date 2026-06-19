@@ -1,4 +1,4 @@
-# Playing
+# Playing (Draft)
 
 This document is, for reasons unknown to man, a needed companion for myself first and foremost at the time of this writing, to remember the cardinal rule (always remember), and then other random shit as the turns pass by.
 

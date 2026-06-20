@@ -1,284 +1,210 @@
-# Project DOOM
+# Project DOOM Context
 
-## Current State
+**If uncertain, confused or horny, ask, do not tell.**
 
-- Civ VII 1.4.0
+## References
+
+### Contexts
+
+- [prev, 2026-06-20](context.md)
+
+### Screenshots
+
+This section will contain links to a series of in-game map screenshots that can be referenced for deeper understanding of map geometry (as long as it's not chessboard shaped) and the overall strategic position of our empire in relation to our opponents. These will generally not be needed, but please keep them handy for quick referencing if needed if a specific topic is raised where it is more seamless to reason around a picture from a human perspective, as opposed to textual or code representation of a 3D map state.
+
+Combine and stitch as needed, each screenshot should be possible to combine by using recognizable features overlapping in corner regions between each map image.
+
+| [upper left](./images/T75_upper_left.png) | [upper right](./images/T75_upper_right.png) |
+| ----------------------------------------- | ------------------------------------------- |
+| [lower left](./images/T75_lower_left.png) | [lower left](./images/T75_lower_left.png)   |
+
+Yields and score: [Stats, T75](./images/T75_stats.png)
+
+## Premise
+
+Goal: Earliest possible Exploration Age Culture victory through Ming Great Wall tourism.
+
+Current run:
+
 - Leader: Xerxes (Achaemenid)
 - Civ: Maya
-- Exploration target: Ming
-- Victory target: Cultural Victory via Great Wall tourism engine
-- Turn: ~75 Antiquity
+- Difficulty: Sovereign
+- Test of Time 1.4.0
 - Crises disabled
-- Disaster frequency increased
+- Increased disasters
+
+Core assumption:
+
+WAR = TRUE
+
+Egypt is the primary target because unchecked Antiquity tourism and wonder accumulation may threaten the Exploration timing window.
 
 ---
 
-## Strategic Premise
+## Working Style
 
-The game is no longer evaluating whether war is desirable.
-
-War = true.
-
-The remaining questions are:
-
-- When?
-- With what force?
-- Through which axis?
-- Against which objectives?
-- How do we maximize tempo while minimizing risk?
-
-Primary target remains Egypt.
+- Challenge assumptions.
+- Prefer resistance over agreement.
+- Expose uncertainty.
+- Avoid magic numbers.
+- Verify important facts.
+- Preserve conclusions, not discussions.
+- Optimize for laziness.
 
 ---
 
-## Core Concepts
-
-### Project DOOM
-
-Large-scale offensive against Egypt intended to:
-
-- Remove nearest serious competitor
-- Secure territory
-- Secure future Great Wall corridors
-- Gain commander experience
-- Establish momentum entering later Antiquity and Exploration
+## Strategic Principles
 
 ### Tempo
 
-Treated as a resource.
+Tempo is treated as a resource.
 
-Examples:
+Questions are often better framed as:
 
-- Earlier attack
-- Earlier settlement
-- Earlier commander levels
-- Earlier infrastructure
+"How many turns does this gain or lose?"
 
-Tempo can be exchanged for:
+rather than:
 
-- Risk
-- Gold
-- Production
-- Information
+"Is this individually good?"
 
----
+### Supply Chains
 
-## Geography
+A strong attack is not the first wave.
 
-### Egypt
+A strong attack is the first wave plus the continuous arrival of reinforcements.
 
-Primary target.
+Frontline strength matters less than sustained pressure.
 
-Strengths:
+### Information
 
-- Pyramids
-- Reasonable science
-- Homeland Medjay bonus
-- Central location
+Scouting before war is mandatory.
 
-Weaknesses:
+Information creates options.
 
-- River-heavy terrain
-- Predictable reinforcement routes
-- Potentially vulnerable settlements
-- Questionable AI operational capability
+Lack of information creates forced moves.
 
-### Tecumseh
+### Commanders
 
-Currently passive.
+Commander experience matters.
 
-- Only two city states
-- Awkward terrain
-- Limited threat
+Level 5 is a major breakpoint because of Commendation and specialization power spikes.
 
-Potential future target if experience farming becomes useful.
-
-### Himiko
-
-Northern island cluster.
-
-Low Great Wall value.
-
-No current invasion plans.
-
-### America
-
-Washington D.C. not strategically interesting.
-
-St. Louis occupies territory originally intended for future settlement planning.
-
-Potential future consideration.
-
-### Rizzla
-
-Eastern peninsula.
-
-No immediate threat.
-
-Scouting value remains uncertain due to unknown coastline and distant land access.
+A promoted commander before D-Day is worth real effort.
 
 ---
 
-## War Planning
-
-### Current Thinking
-
-Research priority:
-
-1. Iron Working
-2. War preparation technologies
-
-Reasoning:
-
-- Unlock Horsemen
-- Enable transition from planning to execution
-
-### Horse Discussion
-
-T1 Chariot
-
-- 30 strength
-- 80 production
-- 320 gold
-
-T2 Horseman
-
-- 35 strength
-- 120 production
-- 480 gold
-
-Upgrade path appears expensive.
-
-Conclusion:
-
-Horsemen are materially stronger but timing matters more than raw strength.
-
-### Supply Chain Principle
-
-An army arriving once is less valuable than an army continuously arriving.
-
-Therefore:
-
-- Establish reinforcement flow
-- Build logistics first
-- Attack only when replacements are already en route
-
-This became one of the strongest arguments against immediate post–Iron Working war.
-
----
-
-## Commander Planning
-
-Questions remain:
-
-- Existing commander vs new commander
-- Early promotion farming
-- City state experience opportunities
-- Timing relative to Grand Canyon settlement
-
-Important thresholds:
-
-L2
-
-- Units move after unpacking
-
-L5
-
-- Major power spike
-- Commendation access
-- Battlefield influence expands significantly
-
----
-
-## Settlements
-
-### Wak Kab'nal
-
-Current capital.
-
-Strong economy.
-
-Primary source of:
-
-- Gold
-- Production
-- Unit purchases
+## Current Strategic Picture
 
 ### Entropic
 
-Formerly Tree Town.
+Formerly Treetown.
 
-Converted successfully.
+Converted to city.
 
-Immediate purchase:
+Saw pit purchased before conversion.
 
-- Saw Pit
+Conversion effectively discounted due to production increase.
 
-Role:
+Expected role:
 
-- Production center
+- Unit production
+- Military logistics
 - Reinforcement source
-- Military logistics hub
+
+### Baak
+
+Primary wonder and production center.
+
+Still expected to contribute heavily to war preparation.
+
+### Grand Canyon Region
+
+Still strategically important.
+
+Future settlement locations remain desirable.
+
+Do not lose sight of long-term Ming setup while preparing for war.
 
 ---
 
-## Open Questions
+## Egypt (Project DOOM)
 
-### D-Day Timing
+Current assumptions:
 
-Unknown.
+- Waset is primary objective.
+- Rivers create natural choke points.
+- Enemy reinforcements may be delayed or isolated.
+- Early battlefield control matters more than deep penetration.
 
-Current estimate:
+Questions still open:
 
-~20–30 turns
-
-Needs refinement.
-
-### Reinforcement Flow
-
-Need better estimates for:
-
-- Travel times
-- Unit throughput
-- Frontline replacement rates
-
-### Commander Timing
-
-Need to determine whether:
-
-- Commander first
-- Settler first
-- Hybrid purchase strategy
-
-produces best operational tempo.
-
-### Scouting
-
-Need better information on:
-
-- Eastern coastline
-- Distant lands access
-- Hidden passages
-- Potential future settlement locations
+- Exact D-Day timing.
+- Commander timing.
+- Horseman timing.
+- Supply flow rate from Baak and Entropic.
+- Whether additional commander XP should be acquired before war.
 
 ---
 
-## Lessons Learned
+## Unit Notes
 
-### The Ironing
+### Chariot
 
-Observation:
+- 80 production
+- 320 gold
+- 30 strength
 
-A company attempting to build superintelligence can still create a chat window capable of inspiring existential frontend investigations.
+### Horseman
 
-Status:
+- 120 production
+- 480 gold
+- 35 strength
 
-Ongoing.
+Upgrade path appears expensive enough that mass upgrading is not automatically superior to direct production.
 
-### First Law of Laziness
+### Medjay
 
-The exact wording is unknown.
+Confirmed correction:
 
-The exact wording is unnecessary.
+Do not invent mysterious combat values.
 
-The law remains valid regardless.
+Verify bonuses explicitly.
+
+Incident 32 remains a cautionary tale.
+
+---
+
+## Images
+
+Maintain only a few orientation screenshots:
+
+Combine and stitch as needed, each screenshot should be possible to combine by using recognizable features overlapping in corner regions between each map image.
+
+| [↖️ upper left](./images/T75_upper_left.png) | [upper right ↗️](./images/T75_upper_right.png) |
+| -------------------------------------------- | ---------------------------------------------- |
+| [↙️ lower left](./images/T75_lower_left.png) | [↘️ lower right](./images/T75_lower_left.png)  |
+
+Yields and score: [Stats, T75](./images/T75_stats.png)
+
+Details:
+
+- It's not a comprehensive coverage of all discovered map tiles, our empire is included, as well as areas of interest for expansion or conquest.
+- More game state data is available through various in-game interfaces. The folowing are the ones we use on a common basis:
+  - Map overlays and lenses to filter and focus on specific terrain or map features adapted to common use cases. [Settler view](./images/T75_settler_view.png) for example that is filtered to show only filtered tiles, showing water availability, basic terrain features, and recommended new settlement positions
+  - [Win condition view](./images/T75_win_conditions_culture.png). Relatively detailed comparative breakdown of how players are doing against each other and available win conditions.
+  - [Policy view](./images/T75_policy_view.png). Overview of slotted traditions and policies, and drag and drop interface to change if allowed.
+  - [Resource view](./images/T75_resource_view.png). Overview of assigned resources and drag and drop interface to change assignments if allowed.
+
+---
+
+## First Law of Laziness
+
+Laziness is good.
+
+Automate boring tasks.
+
+Preserve conclusions.
+
+Discard unnecessary effort.
+
+I would put this at the top but can't be bothered.

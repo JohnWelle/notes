@@ -8,18 +8,6 @@
 
 - [prev, 2026-06-20](context.md)
 
-### Screenshots
-
-This section will contain links to a series of in-game map screenshots that can be referenced for deeper understanding of map geometry (as long as it's not chessboard shaped) and the overall strategic position of our empire in relation to our opponents. These will generally not be needed, but please keep them handy for quick referencing if needed if a specific topic is raised where it is more seamless to reason around a picture from a human perspective, as opposed to textual or code representation of a 3D map state.
-
-Combine and stitch as needed, each screenshot should be possible to combine by using recognizable features overlapping in corner regions between each map image.
-
-| [upper left](./images/T75_upper_left.png) | [upper right](./images/T75_upper_right.png) |
-| ----------------------------------------- | ------------------------------------------- |
-| [lower left](./images/T75_lower_left.png) | [lower left](./images/T75_lower_left.png)   |
-
-Yields and score: [Stats, T75](./images/T75_stats.png)
-
 ## Premise
 
 Goal: Earliest possible Exploration Age Culture victory through Ming Great Wall tourism.

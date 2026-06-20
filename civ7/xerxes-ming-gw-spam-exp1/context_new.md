@@ -6,7 +6,7 @@
 
 ### Contexts
 
-- [prev, 2026-06-20](context.md)
+- 2026-06-20: https://raw.githubusercontent.com/JohnWelle/notes/refs/heads/main/civ7/xerxes-ming-gw-spam-exp1/context.md
 
 ## Premise
 

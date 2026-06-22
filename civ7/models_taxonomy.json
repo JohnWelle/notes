@@ -1,0 +1,16 @@
+{
+  "cost": [
+    {
+      "category": "production",
+      "types": ["gold", "hammers"]
+    },
+    {
+      "category": "time",
+      "types": ["tempo", "payback"]
+    },
+    {
+      "category": "other",
+      "types": ["risk"]
+    }
+  ]
+}

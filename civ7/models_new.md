@@ -8,7 +8,7 @@ A model should:
 - Produce useful conclusions, predictions, or decisions.
 - Be testable against observations from actual gameplay.
 
-Models are intentionally defined using lightweight markdown and supporting assets. No formal schema currently exists. We leverage LLM capabilities to infer meaning rather than using a strict schema. How well this works in practice should be covered bytest cases as well.
+Models are intentionally defined using lightweight markdown and supporting assets. No formal schema currently exists. We leverage LLM capabilities to infer meaning rather than using a strict schema. How well this works in practice should be covered by test cases as well.
 
 ## Model Creation Flow
 

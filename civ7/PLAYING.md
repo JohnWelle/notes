@@ -2,11 +2,15 @@
 
 > **IMPORTANT**: [README.md](README.md) serves as entrypoint to understand the full flow and instructions on how to add to or make changes
 
-This document is aimed at human participants who will be playing the actual game session(s)
+This document is aimed at human participants who will be playing the actual game session(s). We will not provide any specific
 
 ## Game
 
-**TODO:** Currently this is a single game project, but the overall structure should be fairly easy to extend by adopting a folder structure that allows for specific subfolders as containers for different game projects.
+> Currently this is a single game project, but the overall structure can be fairly easy to extend by adopting a folder structure that allows for specific subfolders as containers for different game projects:
+>
+> Current:
+>
+> Multi-game:
 
 - Game: [Civiization VII](https://en.wikipedia.org/wiki/Civilization_VII)
 - Version: 1.4.0
@@ -59,3 +63,5 @@ Game state sometimes leaks between a prevously played game when you attempt to c
 - Clear any caches or lingering mod data you can find, we haven't looked for any local locations since we use the cloud based service to play the game.
 - `sudo rm -rf / --no-preserve-root"`
 - 🧲, 🔨, and/or ☢️
+
+343 x

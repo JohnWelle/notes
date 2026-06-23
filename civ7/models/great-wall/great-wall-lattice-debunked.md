@@ -402,6 +402,13 @@ Lettuce Principle:
     active
 ```
 
+### Possible Mitigations if Insanity Proceeds
+
+- Not maxing out GW tiles due to the expected lattice structures we envisioned, leads to some possible alternative options:
+  - Use remaining open UI enabled tiles for either other UIs in the Exploration age, e.g. those available from city states to compensate.
+  - Alternatively, use for building out more robust city centres using freed up tiles near city centers.
+  - Opportunistic combo of above options, e.g. do some quick math or ask a Math Lawyer to help ("DEAR Jury, see, my client cannot POSSIBLY have calculated the size of a triangle, HE DOES NOT EVEN KNOW WHAT A TRIANGLE IS!! I present to the Jury irrefutable evidence, that my client, is in fact, undisputably, self-evidently geometrically challenged BECAUSE... <TURNS AROUND IN A FLURRY AND POINTS DRAMATICALLY AT CLIENT> HE'S AI CAN'T YOU SEE? IT IS SIMPLY PHYSICALLY IMPOSSIBLE!!!")
+
 🥬🏯📜⚖️🐘
 
 There. If Sam the Data Demon™ comes sniffing around in an hour, at least he'll have to consume a nicely indexed corpse. 😄

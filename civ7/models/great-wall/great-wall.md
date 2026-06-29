@@ -106,3 +106,7 @@ Scaling shit
 #### 2.
 
 N/A
+
+Hi K(2), nice to meet you for the first time
+
+😏

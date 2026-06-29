@@ -1,13 +1,19 @@
 # Project Doom Repository
 
-This repository exists to provide a lightweight continuity layer between ChatGPT conversations and across multiple game sessions.
+<img width="845" height="247" alt="image" src="https://github.com/user-attachments/assets/375ae5d5-4ca2-4f56-bc0b-38d2a9d8e8d4" />
+
+<sub>*Cutout from AI generated versiob of something you'd never guess the prompt for, nor, naybe, what it is supposed to look like. But it FUCKS!*</sub>
+
+> **This repository exists to provide a lightweight continuity layer between ChatGPT conversations and across multiple game sessions.**
 
 It is intentionally optimized for:
 
 - **Laziness**
 - Recoverability
-- Archaeology
+- ~~Archaeology~~
 - Avoiding 10,000-message browser death spirals
+
+<sub>Archeology: We strike archeology instead of removing it for archival purposes! In seriousness, we will have the builtin history benefits of git/GitHub and we will use a simple subfolder structure to keep track of individual gane session states, ex: `/sessions/some-descriptive-name/...`</sub>
 
 ## Repository Structure
 
@@ -33,76 +39,9 @@ The objective is not perfect memory.
 
 The objective is fast rehydration.
 
-## Screenshot Naming Convention
+Except: It is necessary to transfer basic game mechanics to have meaningful discussions on both the macro and micro level. As we will learn, at neither level is it possible to make meaningful decisions without imvolving both. Fictional game example: 
 
-Format:
-
-```text
-{campaign}-t{turn}-{topic}-{lens}-{zoom}.png
-```
-
-Examples:
-
-```text
-xerx-maya-t043-waterfalls-default-1x.png
-xerx-maya-t043-waterfalls-settler-2x.png
-xerx-maya-t051-egypt-front-military-2x.png
-xerx-maya-t057-grand-canyon-appeal-1x.png
-```
-
-### Guidelines
-
-Use fixed-width turn numbers:
-
-```text
-t003
-t043
-t107
-```
-
-Use strategic locations rather than cardinal directions whenever possible:
-
-Good:
-
-```text
-waterfalls
-egypt-front
-grand-canyon
-capital
-corridor
-```
-
-Less useful:
-
-```text
-northwest-1
-southwest-3
-```
-
-The filename should answer:
-
-- What is this?
-- Why was it captured?
-- Is it still useful?
-
-without opening the image.
-
-## Image Selection Rules
-
-Not every screenshot deserves immortality.
-
-Keep screenshots that answer ongoing questions.
-
-Examples:
-
-- Settlement placement decisions
-- Great Wall planning
-- Appeal analysis
-- War fronts
-- Wonder races
-- Important discoveries
-
-Delete or ignore screenshots that only documented temporary events.
+> <dub>**macro:** win through conquest, micro: build, military in stable or castle (3-4 turns per unit),  10 turns to produce blacksmith increasing overall production with m units, macro: we build blacksmith because we can await unit production until we have scouted nearby enemy closely, we should build a scout first, then blacksmith, that's 13 turns total, and scouts have then 10 turns to travel to and check enemey territory, ... _informed discussion ensues_</sub>
 
 ## current.md Rules
 

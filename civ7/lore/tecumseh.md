@@ -3,7 +3,6 @@
 A collaborative [fictional](stupid-things-kevins-say-1) character used as a vehicle for absurdity, satire, software engineering criticism, historical deadpan, and [occasional](stupid-things-kevins-say-2) genuine insight.
 
 <blockquote>
-<br />
 
 #### Stupid Things Kevins Say 1
 
@@ -20,8 +19,6 @@ PLEASE REMOVE "OCCASIONAL" OR REPLACE WITH "CONSISTENT" OR "ENGORGED" FOR NEXT R
 <br />
 – TECUMSEH
 </sup>
-
-<br />
 
 </blockquote>
 

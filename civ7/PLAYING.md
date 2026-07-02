@@ -13,12 +13,39 @@ This document is aimed at human participants who will be playing the actual game
 > Multi-game:
 
 - Game: [Civiization VII](https://en.wikipedia.org/wiki/Civilization_VII)
-- Version: 1.4.0
+- Version: 1.4.1
 - DLCs: All
 - Mods: Many (**TODO**: Enumerate installed mods)
 - Platform: [Nvidia GeForce NOW](https://www.nvidia.com/en-us/geforce-now/)
 - Description: 4X turn based strategy game series created by god-among-mortals Sid Meyer and developed and published by Firaxis.
-- Select Reason: Fairly complex game with many win conditions, interveawing game mechanics, discoverable strategies, a reasonable degree of randomness (too much -> hard to verify hypothesis without large sample sizes, too little -> too predictable and easy to define optimal play). Also, human thinks it's fun.
+- Game Setup:
+  - Map: Fractal Continents
+  - Size: Large
+  - AI Players: 9
+  - Independent States: 24
+  - Leader: Tecumseh
+  - Antiquity Civilization: Tonga
+  - Exploration Civilization: ...? Likely Hawaii but to TBD finally
+- Select Reason:
+  - Test classic pairing with a few new ideas centered around various meta concepts that are being discuss different civ-communities and YouTube channels:
+    - **Prerequisite Knowledge: Rural vs Urban Meta**. Patch v1.4.0 introduced a severe overhaul to some of the core game mechanics that has had a significant impact on what is considered "optimal play". See [nomenclature](#nomenclature) to find detailed descriptions of common terms
+    - **Classic Tecumseh & Tonga in New Meta**
+      - The pairing of Tecumseh and Tonga was immediately found; Tonga has scouts that can traverse oceans as the only civilization in the game in the Antiquity era. This means that this combo, on a typical continent based map type, will have access to _at least_ twice as many Independent States (later to become City States if suzereined). Tecumseh is the leader that arguably has the most beneficial bonuses towards suzereining, and reaping benefits thereafter.
+      - In the new Meta this combo has probably faded a little in the background since their strong synergy does not seem to be particularly gained or harmed by the meta changes. But, what if we made a few tweaks and see what happens? Yes, it might be fun!! Or bomb totally but we're finding out...
+      - Variation:
+        - Volcano Engine: Set disaster level to Catastrophic and roll for a good volcano start. We are jacking the volcano fueled yield games as part of a more rural-centric strategy to catch those delicious bonus yields.
+        - Coastal Preference: Tonga has a lot of bonuses towards coastal terrain adjacencies and bonuses on coastal rural improvements and resources, eg. fishing boats. This is nothing new, but we try to go more aggressively for coastal-first to make sure we set up an _engine_ which will not reach full potential until Exploration, or if we choose to pivot have been an important part of the rural/fishing/volcano experiment to see how well it works.
+        - Open: The _most likely_ win condition to go for is probably culture due to the availability of very good coastal civs in Exploration. The aggressive suzereining of City States means we will have a diverse set of bonuses and yield income types. TBD!
+
+### Nomenclature
+
+**City Specialist**. When a city grows and there are open spots for specialists, the player can optionally choose to populate a specialist slot for a happiness/gold price to gain other yields, ideally in total net positive numbers, but some yield types are more desirable than others such as hammers, science and culture so it can be a calculated decision to go with a small net loss if the conversion is deemed net beneficial.
+
+**Urban** (tile): A tile becomes urban once a building has completed on it to form a _district_, then it is _irrevocably_ transformed to an urban tile. An urban tile always have two district slots. When a tile has received two buildings so that the two districts are populated it is renamed in the game to a _quarter_, the distinction plays a role since there are various bonus systems attached to both urban districts and quarters, though quarters has more/better availability. The transformation to an urban square will almost always remove the yield and use the building provided yield instead.
+
+**Rural** (tile): A tile with valid terrain type to place an _improvement_ e.g. plantation, fishing boat, mud pit, woodcutter, quarry, mine, farm. When it has been improved it can then be further stacked with Unique Improvements, a rural building type that stacks with the tile yields rather than replacing.
+
+Fairly complex game with many win conditions, interveawing game mechanics, discoverable strategies, a reasonable degree of randomness (too much -> hard to verify hypothesis without large sample sizes, too little -> too predictable and easy to define optimal play). Also, human thinks it's fun.
 
 ## Playing
 

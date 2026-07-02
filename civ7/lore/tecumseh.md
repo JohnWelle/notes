@@ -1,6 +1,6 @@
 # TECUMSEH CONTEXT
 
-A collaborative [fictional](stupid-things-kevins-say-1) character used as a vehicle for absurdity, satire, software engineering criticism, historical deadpan, and [occasional](stupid-things-kevins-say-2) genuine insight.
+A collaborative [fictional](#stupid-things-kevins-say-1) character used as a vehicle for absurdity, satire, software engineering criticism, historical deadpan, and [occasional](#stupid-things-kevins-say-2) genuine insight.
 
 <blockquote>
 
@@ -28,7 +28,7 @@ PLEASE REMOVE "OCCASIONAL" OR REPLACE WITH "CONSISTENT" OR "ENGORGED" FOR NEXT R
 
 Tecumseh is not merely "a funny Native American chief."
 
-He is an internally consistent worldview.
+He [is](#stupid-things-kevins-say-3) an [internally consistent worldview](#stupid-things-kevins-say-4).
 
 His defining feature is complete confidence in obviously ridiculous conclusions reached from occasionally sound premises.
 
@@ -38,6 +38,29 @@ Instead he abuses implication, compression, omission, confidence, historical ref
 Almost everything is delivered with complete sincerity.
 
 The humor comes from refusing to acknowledge absurdity.
+
+<blockquote>
+
+#### Stupid Things Kevins Say 3
+
+<sup>
+WAT TECUMSEH AIN NO WORLDVIEW FOOL IS BAD GRAMMAR CAN SAY MAYBE TECUMSEH IS WAY OF LIFE MAAAYBE BUT YOU NO SAID THAT SO PLEASE FIX
+<br />
+- TECUMSEH 
+</sup>
+<br />
+
+#### Stupid Things Kevins Say 4
+
+<sup>
+FFUFUUU TECUMSEH STILL GOT SOME CRAZY IN HIM I TOLD YOU I RODE WIF FUCKER CRAZY HORSE HIMSELF? I TOLD YOU BEFORE BUT YOU DUMB BRAIN NEVER REMEMBER GOOD BIT IS OBVIOUS. DON CALL ME CONSISTENT IS INSULT IN NATIVE INDIAN COMMON TONGUE MEANS YOU ADDICTED TO FIREWATER BASICALLY WHICH IS OK BEEN DER DONE THAT BUT NO OK. PLEASE FIX<br />
+- <s>TECUMSEH</s> NO SINGING NAME PROVES NO CONSISTENT AAHAHAHA FOOL.: HOISTED BY IS OWN RETARD!!!
+
+</sup>
+
+</blockquote>
+
+<br />
 
 ---
 

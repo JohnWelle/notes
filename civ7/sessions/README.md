@@ -31,7 +31,7 @@ The maintainer adds initial CHARTER and HYDRATION documentation
 ## Sessions Current/Archive
 
 1. [2026-06-30 Tecumseh Tonga Rural+Fish+Volcano+CS strategy](sessions/2026-06-30-tecumseh-tonga)
-   1. [CHARTER.md](sessions/2026-06-30-tecumseh-tonga)
+   1. [CHARTER.md](sessions/2026-06-30-tecumseh-tonga/CHARTERS.md)
    2. [HYDRATE.md](sessions/2026-06-30-tecumseh-tonga/HYDRATE.md)
 
 ## General Goals – Written in Human...

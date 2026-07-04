@@ -10,7 +10,15 @@ Settlements: 8/8 at Antiquity end
 Primary likely win condition: Culture  
 Secondary possible win condition: Science
 
-The empire exits Antiquity in a strong position, especially culture and economy. Science was weaker relative to Ashoka at Antiquity end, but Ashoka is expected to suffer an Age-transition reset and must be remeasured.
+> **Primary strategic threat (AI): Ashoka the World Renouncer.**
+
+Reason:
+
+- Finished Antiquity with a significant science lead over us.
+- We were unable to meaningfully reduce that gap during Antiquity.
+- If his lead survives the Age transition, he is the most likely candidate to require military intervention.
+
+Overall, the empire exits Antiquity in a strong position, especially in culture.
 
 ## Antiquity Summary
 

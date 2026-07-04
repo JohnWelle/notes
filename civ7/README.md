@@ -1,4 +1,8 @@
-<<<<<<<<<<# Project Doom Repository
+# Civ 7 AI Experiment
+
+> **IMPORTANT!** This document is deprecated but kept for historical reasons and possible cherry-picking useful bits... Use [sessions/README.md](sessions/README.md) as entrypoint. It will be refactored eventually. Maybe!
+
+---
 
 This repository exists to provide a lightweight continuity layer between ChatGPT conversations and across multiple game sessions.
 

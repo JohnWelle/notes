@@ -1,14 +1,31 @@
-# Game Sessions
+# Human-AI Collaboration
+
+The core premise of this documentation is to further the primary goal::
+
+> We **experiment** to **solve complex problems** efficiently with the right level of **minimum viable understanding** (MVU) to facilitate discussion that provides **additive value**.
+
+In this case, the problem is **winning the game Civilization VII with a predefined strategy**, sometimes including going for a specific win condition, but not always.
+
+## Global
+
+A number of files that provide needed knowledge, applicable for all game sessions:
+
+- [Mechanics](global/mechanics.md)
+- [Meta](global/meta.md)
+- [Strategy](global/strategy.md)
+- [Terms](global/terms.md)
+
+## Game Sessions
 
 Work effectively on a problem (in this context to be understood as a specific instance of a game session that presents a set of problems over time (temporal) to solve a problem given a set of limitations and desired outcomes beyond a binary win/lose condition.
 
 Generate artifacts to gain MVU – Minimum Viable Understanding:
 
-1. CHARTER.md: Relatively static information on the game premise and strategic reasoning, including what we hope will emerge as minimum viable understanding of game mechanics to minimize confusion through later fantasies/faulty inferences presented as truth.
-1. REHYDRATE.md: Updated continuously to capture MVP - minimum viable process - changes and relevant "current state" of the context, e.g. we do not seek to recreate history, we seek to provide sufficient information for understanding and contribution as smoothly as possible.
-1. _TODO/TBD: Structure/files for storing and transferring: A) game/session specific information not necessarily covered by the other two documents; clearer purpose for each document. B) global state, e.g. things that are recurring for any game session and should be kept in the root folder here or elsewhere in the repository._
+1. CHARTER.md: Relatively static information on the game session premise and strategic reasoning, including what we hope will emerge as minimum viable understanding of game mechanics to minimize confusion through later fantasies/faulty inferences presented as truth.
+1. REHYDRATE.md: Updated continuously to capture MVP - minimum viable process - changes and relevant "current state" of the context, e.g. we do not seek to recreate history, we seek to provide sufficient information for understanding and contribution as smoothly as possible. More specifically, when we say "current state" that means the state of the game session anchored by the question "how does this decision affect our win condition?"
+1. GLOBAL doucumentation
 
-## Folder Structure
+### Folder Structure
 
 Folders are added using the following naming convention for each game session.
 
@@ -28,15 +45,13 @@ Example:
 
 The maintainer adds initial CHARTER and HYDRATION documentation
 
-## Sessions Current/Archive
+### Sessions Current/Archive
 
 1. [2026-06-30 Tecumseh Tonga Rural+Fish+Volcano+CS strategy](sessions/2026-06-30-tecumseh-tonga)
    1. [CHARTER.md](sessions/2026-06-30-tecumseh-tonga/CHARTERS.md)
    2. [HYDRATE.md](sessions/2026-06-30-tecumseh-tonga/HYDRATE.md)
 
-## General Goals – Written in Human...
-
-### MVU - Minimum Viable Understanding
+## MVU - Minimum Viable Understanding
 
 Essentially, or perhaps only (surprisingly _hard_) problems we are trying to address all come from the question:
 
@@ -44,9 +59,9 @@ Essentially, or perhaps only (surprisingly _hard_) problems we are trying to add
 
 This folder structure contains documentation to enumerate some of the problems we have found on the journey so far, as well as concrete implementation artifacts [1].
 
-We are looking to create **transferable artifacts** to establish a **base level trust** of **understanding**, acknowledging **limitations**. It should be easy to **verify** and easy too **iterate** on as we learn more over time.
+We are looking to create **transferable artifacts** to establish a **base level** of trust and understanding, acknowledging **limitations**. We value **verifiability** and ease of **iteration** as we learn together over time. We strive to become better.
 
-#### LLM Limitations
+### LLM Limitations
 
 LLM will optimize towards certain behaviors that are contrary to our goals.
 
@@ -72,23 +87,17 @@ To suggest a good methodology, we first need to know the limitations we are work
 
 TBD; simple low overhead tests on hydration attempts to measure relative success % and give indications on what we need to glue/fix to overcome next time.
 
-### Proposed Structure
-
-> A practical structure or implementation method, e.g. one that is easy to maintain and implement over time as adaptations will be needed.
-
-Short term as this is very much work in progress, we attempt with the earlier described CHARTER/HYDRATE markdown solution, but then..
-
-A proposed solution made up by me (suck it bot!) is to use a procedural language as possible a good fit for LLMs language capabilities and as a way to have more strict semantics about what is allowed or not.
-
-Keep in mind the future proposal when structuring initial files in markdown, e.g. make it transferrable to (probably) prolog syntax or straight up use it right away BOOM!
-
 ## Future
 
 Use sparingly, fear scope creep, only add known well-defined needs.
 
-### (Global | Session) State Distinction
+### Markdown -> Prolog
 
-**TODO**: Certain information should be carried over on a global level shared by all games, such as core game mechanical concepts like Town/City Tile/Terrain, Rural/Urban, that are generally applicable concepts that will be used and considered for decisions in _any_ game.
+Short term as this is very much work in progress, we attempt with the earlier described CHARTER/HYDRATE markdown solution, along with some global files, but then..
+
+A proposed solution made up by me (suck it bot!) is to use a procedural language as possible a good fit for LLMs language capabilities and as a way to have more strict semantics about what is allowed or not.
+
+Keep in mind the future proposal when structuring initial files in markdown, e.g. make it transferrable to (probably) prolog syntax or straight up use it right away BOOM!
 
 ---
 

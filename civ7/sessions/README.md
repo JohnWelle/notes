@@ -2,7 +2,7 @@
 
 The core premise of this documentation is to further the primary goal::
 
-> We **experiment** to **solve complex problems** efficiently with the right level of **minimum viable understanding** (MVU) to facilitate discussion that provides **additive value**.
+> We **experiment** to **solve complex problems** efficiently with a sufficient level of **minimum viable understanding** (MVU) to facilitate discussion that provides **additive value**.
 
 In this case, the problem is **winning the game Civilization VII with a predefined strategy**, sometimes including going for a specific win condition, but not always.
 

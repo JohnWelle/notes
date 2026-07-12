@@ -49,10 +49,10 @@ The maintainer adds initial CHARTER and HYDRATION documentation
 
 ### Sessions Current/Archive
 
-1. [2026-06-30 Tecumseh Tonga Rural+Fish+Volcano+CS strategy](sessions/2026-06-30-tecumseh-tonga)
-   1. [Antiquity Summary (1/3 ages)](sessions/2026-06-30-tecumseh-tonga/01_summary_antiquity.md)
-   1. [CHARTER.md](sessions/2026-06-30-tecumseh-tonga/CHARTERS.md)
-   1. [HYDRATE.md](sessions/2026-06-30-tecumseh-tonga/HYDRATE.md)
+1. [2026-06-30 Tecumseh Tonga Rural+Fish+Volcano+CS strategy](tecumseh-tonga)
+   1. [Antiquity Summary (1/3 ages)](tecumseh-tonga/1_summary_antiquity.md)
+   1. [CHARTER.md](tecumseh-tonga/CHARTER.md)
+   1. [HYDRATE.md](tecumseh-tonga/HYDRATE.md)
 
 ## MVU - Minimum Viable Understanding
 

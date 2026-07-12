@@ -15,6 +15,8 @@ A number of files that provide needed knowledge, applicable for all game session
 - [Strategy](global/strategy.md)
 - [Terms](global/terms.md)
 
+> **NOTE!** These documents are very much WIP, let's work together to update and add as we play along and discover new things.
+
 ## Game Sessions
 
 Work effectively on a problem (in this context to be understood as a specific instance of a game session that presents a set of problems over time (temporal) to solve a problem given a set of limitations and desired outcomes beyond a binary win/lose condition.
@@ -23,7 +25,7 @@ Generate artifacts to gain MVU – Minimum Viable Understanding:
 
 1. CHARTER.md: Relatively static information on the game session premise and strategic reasoning, including what we hope will emerge as minimum viable understanding of game mechanics to minimize confusion through later fantasies/faulty inferences presented as truth.
 1. REHYDRATE.md: Updated continuously to capture MVP - minimum viable process - changes and relevant "current state" of the context, e.g. we do not seek to recreate history, we seek to provide sufficient information for understanding and contribution as smoothly as possible. More specifically, when we say "current state" that means the state of the game session anchored by the question "how does this decision affect our win condition?"
-1. GLOBAL doucumentation
+1. GLOBAL documentation
 
 ### Folder Structure
 
@@ -48,8 +50,9 @@ The maintainer adds initial CHARTER and HYDRATION documentation
 ### Sessions Current/Archive
 
 1. [2026-06-30 Tecumseh Tonga Rural+Fish+Volcano+CS strategy](sessions/2026-06-30-tecumseh-tonga)
+   1. [Antiquity Summary (1/3 ages)](sessions/2026-06-30-tecumseh-tonga/01_summary_antiquity.md)
    1. [CHARTER.md](sessions/2026-06-30-tecumseh-tonga/CHARTERS.md)
-   2. [HYDRATE.md](sessions/2026-06-30-tecumseh-tonga/HYDRATE.md)
+   1. [HYDRATE.md](sessions/2026-06-30-tecumseh-tonga/HYDRATE.md)
 
 ## MVU - Minimum Viable Understanding
 

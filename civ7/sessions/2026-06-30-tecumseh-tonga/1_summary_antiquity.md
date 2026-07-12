@@ -4,7 +4,7 @@
 
 ## History as We Remember It
 
-- Initial strat -> Want to play TECUMSEEHEHH!!!!!!
+- Initial strategy -> Want to play TECUMSEEHEHH!!!!!!
 - OOooh, let's try with Tonga that's sick
 - Tonga -> can traverse ocean = meet many more CS + they have bonuses towards Influence themselves, which is the key currency for acquiring city state fuck-friend status.
 - Expand to try to exploit Tonga coastal fishy benefits to the max + new meta shift to have more towns and rural things + VOLCANO POWER!!!
